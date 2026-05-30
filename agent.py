@@ -119,7 +119,7 @@ def llm_review(pr_title: str, pr_body: str, diff_text: str) -> str:
         messages=[{"role": "user", "content": prompt}],
         result_format="message",
         stream=False,
-        temperature=0.1
+        temperature=0.3
     )
 
     if response.status_code == 200:
