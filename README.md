@@ -123,4 +123,5 @@ streamlit run app.py
 - **集成 CI/CD**：集成到 GitHub Actions，实现代码提交后自动评审
 
 ## 视频演示
-https://github.com/haikang123/AI-PR-Review/issues/2#issue-4553111742
+
+https://github.com/user-attachments/assets/9ab0b339-42fc-439a-854e-ebb879ea9000
