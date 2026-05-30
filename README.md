@@ -124,3 +124,5 @@ streamlit run app.py
 
 
 ## 项目演示
+
+https://github.com/haikang123/AI-PR-Review/issues/2#issue-4553111742
